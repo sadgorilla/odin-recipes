@@ -1,0 +1,134 @@
+/* CSS style sheet for Dry Green Beans */
+
+html {
+	box-sizing: border-box;
+}
+
+* {
+	box-sizing: inherit;
+}
+
+body {
+	font-family: 'EB Garamond', serif;
+	background-color: #9e6804;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin: 0em;
+}
+
+article {
+	background-color: #ffe5b4;
+	border: 3px rgb(70, 48, 3) solid;
+	max-width: 45em;
+	min-width: 20em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 20px;
+	
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 2em;
+	margin-bottom: 0px;
+}
+
+figure {
+	margin: 0px;
+	padding: 0px;
+	margin-top: 1em;
+}
+
+.pic {
+	width: 45em;
+	max-width: 100%;
+	display: block;
+	margin: auto;
+}
+
+span {
+	border: 3px red solid;
+	margin-right: 0px;
+	display: inline-block;
+	width: 50%;
+}
+
+nav {
+	text-align: right;
+	border: 3px green solid
+}
+
+a {
+	border: 3px purple solid;
+	display: inline-block;
+	width: 50%;
+	text-align: left;
+}
+
+/*
+#description,
+#ingredients,
+#instructions,
+footer,
+header {
+	margin-left: auto;
+	margin-right: auto;
+	width: 20em;
+	height: auto;
+	background-color: inherit;
+}
+
+footer {
+	margin-top: 2.5em
+}
+
+p {
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	min-width: 320px;
+}
+
+figure {
+	margin-left: auto;
+	margin-right: auto;
+	width: 30em;
+	height: auto;
+}
+
+.pic {
+	width: 30em
+}
+
+section {
+	margin-bottom: 2.5em;
+}
+
+.list li {
+	margin-bottom: .7em;
+	line-height: 1.3em;
+}
+
+.heading {
+	margin-right: 50%;
+	margin-left: 10%;
+	text-align: right;
+}
+
+.list {
+	border: 2px solid red;
+}
+
+.list li {
+	border: 1px solid blue;
+	margin-right: 0em;
+	margin-left: -1em;
+	padding-left: 1em;
+	padding-right: 5em;
+}
+
+*/
